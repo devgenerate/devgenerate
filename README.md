@@ -2,7 +2,10 @@
 <p align="center">
   <img src="https://github.com/devgenerate/devgenerate/blob/master/avatar.png" />
 </p>
-<h3 align="center">A passionate frontend developer and I love sharing knowledge</h3>
+<h3 align="center">
+A passionate frontend developer and I love sharing knowledge
+I love writing clean code and share knowledge. I'm Bioengineer because of my title but my real passion is the development. I love learn new technologies, share what I know, learning from other people and contributing what I can.
+</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devgenerate" alt="devgenerate" /> </p>
 
 - 📫 How to reach me **david.higuita.75@gmail.com**
