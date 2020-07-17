@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm David Higuita</h1>
 <p align="center">
-  <img src="./avatar.png" />
+  <img src="avatar.png" />
 </p>
 <h3 align="center">A passionate frontend developer and I love sharing knowledge</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devgenerate" alt="devgenerate" /> </p>
