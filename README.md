@@ -6,7 +6,6 @@
 A passionate frontend developer and I love sharing knowledge
 I love writing clean code and share knowledge. I'm Bioengineer because of my title but my real passion is the development. I love learn new technologies, share what I know, learning from other people and contributing what I can.
 </h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devgenerate" alt="devgenerate" /> </p>
 
 <p align="center">
 <a href="https://codepen.io/devgenerate" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="devgenerate" height="20" width="20" /></a>
